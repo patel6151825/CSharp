@@ -17,4 +17,4 @@ Model
 7- using multi line to write your first name, last name and email
 8- write your name and email in one String
 9- what is the difference between var and dynamic
-10- send shape anonymous type that you created in 3 into a method to print them by using interpolation
+10- send shape anonymous type that you created in 3 into a method to print them by using interpolation.
