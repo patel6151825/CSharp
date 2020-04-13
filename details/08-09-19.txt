@@ -1,0 +1,20 @@
+Assignment 1
+-----------------------
+1- Creat a struct Name is as BankAccount which has 2 fields
+Type of Account (Enum)
+Deposit Amount (Float)
+2- Create an Enum -> 3 types
+Checking
+Saving
+Line of credit
+3- Create an anonymous type that contains 3 fields and name it shape :
+Color
+Size
+Model    
+4- Explain difference between call by value and call by reference by an example
+5- Write a method to take 3 arguments and print them by using interpolation
+6- Write a method to calculate how many hours we have until next year.
+7- using multi line to write your first name, last name and email
+8- write your name and email in one String
+9- what is the difference between var and dynamic
+10- send shape anonymous type that you created in 3 into a method to print them by using interpolation
