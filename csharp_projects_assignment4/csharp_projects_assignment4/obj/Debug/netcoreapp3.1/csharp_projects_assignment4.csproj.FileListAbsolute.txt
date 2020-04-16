@@ -1,0 +1,12 @@
+C:\Users\satish\source\repos\csharp_projects_assignment4\csharp_projects_assignment4\bin\Debug\netcoreapp3.1\csharp_projects_assignment4.exe
+C:\Users\satish\source\repos\csharp_projects_assignment4\csharp_projects_assignment4\bin\Debug\netcoreapp3.1\csharp_projects_assignment4.deps.json
+C:\Users\satish\source\repos\csharp_projects_assignment4\csharp_projects_assignment4\bin\Debug\netcoreapp3.1\csharp_projects_assignment4.runtimeconfig.json
+C:\Users\satish\source\repos\csharp_projects_assignment4\csharp_projects_assignment4\bin\Debug\netcoreapp3.1\csharp_projects_assignment4.runtimeconfig.dev.json
+C:\Users\satish\source\repos\csharp_projects_assignment4\csharp_projects_assignment4\bin\Debug\netcoreapp3.1\csharp_projects_assignment4.dll
+C:\Users\satish\source\repos\csharp_projects_assignment4\csharp_projects_assignment4\bin\Debug\netcoreapp3.1\csharp_projects_assignment4.pdb
+C:\Users\satish\source\repos\csharp_projects_assignment4\csharp_projects_assignment4\obj\Debug\netcoreapp3.1\csharp_projects_assignment4.AssemblyInfoInputs.cache
+C:\Users\satish\source\repos\csharp_projects_assignment4\csharp_projects_assignment4\obj\Debug\netcoreapp3.1\csharp_projects_assignment4.AssemblyInfo.cs
+C:\Users\satish\source\repos\csharp_projects_assignment4\csharp_projects_assignment4\obj\Debug\netcoreapp3.1\csharp_projects_assignment4.dll
+C:\Users\satish\source\repos\csharp_projects_assignment4\csharp_projects_assignment4\obj\Debug\netcoreapp3.1\csharp_projects_assignment4.pdb
+C:\Users\satish\source\repos\csharp_projects_assignment4\csharp_projects_assignment4\obj\Debug\netcoreapp3.1\csharp_projects_assignment4.genruntimeconfig.cache
+C:\Users\satish\source\repos\csharp_projects_assignment4\csharp_projects_assignment4\obj\Debug\netcoreapp3.1\csharp_projects_assignment4.csprojAssemblyReference.cache
