@@ -1,0 +1,6 @@
+C:\Users\satish\source\repos\csharp_projects_assignment5\csharp_projects_assignment5\bin\Debug\csharp_projects_assignment5.exe.config
+C:\Users\satish\source\repos\csharp_projects_assignment5\csharp_projects_assignment5\bin\Debug\csharp_projects_assignment5.exe
+C:\Users\satish\source\repos\csharp_projects_assignment5\csharp_projects_assignment5\bin\Debug\csharp_projects_assignment5.pdb
+C:\Users\satish\source\repos\csharp_projects_assignment5\csharp_projects_assignment5\obj\Debug\csharp_projects_assignment5.csprojAssemblyReference.cache
+C:\Users\satish\source\repos\csharp_projects_assignment5\csharp_projects_assignment5\obj\Debug\csharp_projects_assignment5.exe
+C:\Users\satish\source\repos\csharp_projects_assignment5\csharp_projects_assignment5\obj\Debug\csharp_projects_assignment5.pdb
