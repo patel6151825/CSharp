@@ -1,8 +1,0 @@
-Assignment 2
--------------------------
-1-By using stringbuilder Append a sentence by using your fname,lastname and email
-2-Create 2 partial class (optional structure)
-3- Use static methods and static fields in a static class to calculate the area of a circle.
-4-Create a 2D JaggedArray and 3D JaggedArray with optioanl type and fill them with values and print them in the console.
-5-Create indexer optional structure to have access to the private data in the class.(optional structure)
-6-Create a method that takes tuple as an input and returns tuple as the output.(optional structure)
